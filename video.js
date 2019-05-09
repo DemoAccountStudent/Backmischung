@@ -9,3 +9,6 @@ $(this).get(0).pause();
 });
 
 var element = document.getElementById(id);
+var element = document.getElementById(id);
+console.log()
+window.alert
