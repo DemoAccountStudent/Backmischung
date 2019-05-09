@@ -7,3 +7,5 @@ $(this).get(0).play();
 $(document).on('click', 'video', function() { 
 $(this).get(0).pause(); 
 });
+
+var element = document.getElementById(id);
